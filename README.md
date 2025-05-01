@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hello, I'm Lazur
 
-<!--
-**lazur07/lazur07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Incoming MEng student in Mechanical & Industrial Engineering at the University of Toronto (September 2025)
+- 🧠 Passionate about integrating AI with mechanical systems to solve complex problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,ros,git,github,docker,linux,azure,fastapi,graphql,postgres,neo4j)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+![Lazur's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazur07&show_icons=true&theme=dark)
+
+---
+
+## 🧩 LeetCode Profile
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/lazur07?theme=dark&ext=heatmap)](https://leetcode.com/u/lazur07/)
+
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/lazur07/)
+- [LeetCode](https://leetcode.com/u/lazur07/)
+- [Email](mailto:linche@stu.xmu.edu.cn)
+
+---
+
+Feel free to reach out if you're interested in collaborating on robotics projects or discussing the intersection of AI and mechanical engineering!
+
