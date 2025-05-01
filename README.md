@@ -4,8 +4,8 @@
 - 🧠 Passionate about integrating AI with mechanical systems to solve complex problems
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lazur07&show_icons=true&theme=dark" alt="Lazur's GitHub Stats" height="200px" />
-  <img src="https://leetcard.jacoblin.cool/lazur07?theme=dark&ext=heatmap" alt="Lazur's LeetCode Stats" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lazur07&show_icons=true&theme=light" alt="Lazur's GitHub Stats" height="200px" />
+  <img src="https://leetcard.jacoblin.cool/lazur07?theme=light&ext=heatmap" alt="Lazur's LeetCode Stats" height="200px" />
 </div>
 
 
