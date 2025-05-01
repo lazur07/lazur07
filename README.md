@@ -3,9 +3,10 @@
 - 🎓 Incoming MEng student in Mechanical & Industrial Engineering at the University of Toronto (September 2025)
 - 🧠 Passionate about integrating AI with mechanical systems to solve complex problems
 
-| GitHub Stats | LeetCode Profile |
-|--------------|------------------|
-| ![Lazur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazur07&show_icons=true&theme=dark) | ![Lazur's LeetCode Stats](https://leetcard.jacoblin.cool/lazur07?theme=dark&ext=heatmap) |
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lazur07&show_icons=true&theme=dark" alt="Lazur's GitHub Stats" height="200px" />
+  <img src="https://leetcard.jacoblin.cool/lazur07?theme=dark&ext=heatmap" alt="Lazur's LeetCode Stats" height="200px" />
+</div>
 
 
 ### 🛠️ Technical Skills
