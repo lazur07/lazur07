@@ -3,10 +3,11 @@
 - 🎓 Incoming MEng student in Mechanical & Industrial Engineering at the University of Toronto (September 2025)
 - 🧠 Passionate about integrating AI with mechanical systems to solve complex problems
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lazur07&show_icons=true&theme=light" alt="Lazur's GitHub Stats" height="200px" />
-  <img src="https://leetcard.jacoblin.cool/lazur07?theme=light&ext=heatmap" alt="Lazur's LeetCode Stats" height="200px" />
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: nowrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lazur07&show_icons=true&theme=light" alt="Lazur's GitHub Stats" style="max-width: 100%; height: auto; flex: 1 1 0;" />
+  <img src="https://leetcard.jacoblin.cool/lazur07?theme=light&ext=heatmap" alt="Lazur's LeetCode Stats" style="max-width: 100%; height: auto; flex: 1 1 0;" />
 </div>
+
 
 
 ### 🛠️ Technical Skills
