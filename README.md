@@ -20,7 +20,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/lazur07/)
 - [LeetCode](https://leetcode.com/u/lazur07/)
-- [Email](mailto:linche@stu.xmu.edu.cn)
+- [Email](mailto:azure.lin@mail.utoronto.ca)
 
 
 Feel free to reach out if you're interested in collaborating on robotics projects or discussing the intersection of AI and mechanical engineering!
