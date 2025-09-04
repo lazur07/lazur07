@@ -1,7 +1,6 @@
 ### 👋 Hello, I'm Azure Lin
 
 - 🎓 Incoming MEng student in Mechanical & Industrial Engineering at the University of Toronto (September 2025)
-- 🧠 Passionate about integrating AI with mechanical systems to solve complex problems
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=lazur07&show_icons=true&theme=light" alt="Azure's GitHub Stats" style="height: 200px; object-fit: contain;" />
