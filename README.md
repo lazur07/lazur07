@@ -4,7 +4,6 @@
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=lazur07&show_icons=true&theme=light" alt="Azure's GitHub Stats" style="height: 200px; object-fit: contain;" />
-  <img src="https://leetcard.jacoblin.cool/lazur07?theme=light&ext=heatmap" alt="Azure's LeetCode Stats" style="height: 200px; object-fit: contain;" />
 </div>
 
 
